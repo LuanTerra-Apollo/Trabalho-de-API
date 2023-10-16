@@ -2,7 +2,7 @@ package br.com.webank.webank.dto.endereco;
 
 import br.com.webank.webank.model.Endereco;
 
-public class EnderecoResponseDTO extends EnderecoBaseDTO {
+public class EnderecoResponseDTO extends EnderecoRequestDTO {
     
     private Long id;
 
